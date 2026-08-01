@@ -167,32 +167,6 @@ src
 └── test
 ```
 
----
-
-## 📸 Screenshots
-
-Add your application screenshots here.
-
-```
-docs/
-├── login.png
-├── dashboard.png
-├── customers.png
-├── inventory.png
-└── orders.png
-```
-
-Example:
-
-```markdown
-![Login](docs/login.png)
-
-![Dashboard](docs/dashboard.png)
-
-![Inventory](docs/inventory.png)
-```
-
----
 
 ## 🎯 Key Highlights
 
